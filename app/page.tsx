@@ -453,7 +453,7 @@ function AboutSection() {
               <div className="w-80 h-80 mx-auto rounded-full bg-gradient-to-r from-blue-600 via-cyan-600 to-green-600 p-1">
                 <div className="w-full h-full rounded-full bg-gray-900 flex items-center justify-center overflow-hidden">
                   <img
-                    src="/IMG_1265.jpg"
+                    src="/IMG_1265.JPG"
                     alt="Profile"
                     className="w-72 h-72 rounded-full object-cover"
                   />
