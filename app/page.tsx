@@ -2,6 +2,7 @@
 
 import React from "react"
 import * as THREE from "three"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import GridAnimation from "@/components/GridAnimation"
 import ResearchBentoGrid from "@/components/BentoGrid"
 import dynamic from "next/dynamic"
