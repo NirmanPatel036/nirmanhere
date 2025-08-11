@@ -1110,7 +1110,7 @@ function AchievementsSection() {
     {
       title: "Leo9 Design & Digital Studio",
       description: "Web Development Intern",
-      year: "June 2023",
+      year: "June 2025",
       icon: <Spline className="h-8 w-8" />,
     },
     {
