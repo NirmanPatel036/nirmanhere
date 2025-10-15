@@ -526,12 +526,12 @@ function AboutSection() {
 function ProjectsSection() {
   const projects = [
     {
-      title: "Personalized Watchlist Companion",
-      description: "An AI-powered web app that helps users discover personalized movies and TV shows based on their preferences.",
-      tech: ["React", "TypeScript", "Next.js", "Tailwind CSS", "Python", "FastAPI", "Supabase"],
-      image: "/popcorn.jpg",
-      link: "https://popcorn-n-sip.vercel.app/login",
-      github: "https://github.com/NirmanPatel036/popcorn-n-sip",
+      title: "Corelabs - Interactive Visualizer Library",
+      description: "An AI-powered web app that helps learners visualize complex concepts under diverse academic disciplines.",
+      tech: ["React", "TypeScript", "Next.js", "Tailwind CSS", "Gemini API", "Supabase", "OS", "DBMS"],
+      image: "/corelabs.jpg",
+      link: "https://corelabs.vercel.app",
+      github: "https://github.com/NirmanPatel036/corelabs",
     },
     {
       title: "Semantic Book Recommender",
