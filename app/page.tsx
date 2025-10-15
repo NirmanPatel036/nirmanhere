@@ -530,7 +530,7 @@ function ProjectsSection() {
       description: "An AI-powered web app that helps learners visualize complex concepts under diverse academic disciplines.",
       tech: ["React", "TypeScript", "Next.js", "Tailwind CSS", "Gemini API", "Supabase", "OS", "DBMS"],
       image: "/corelabs.jpg",
-      link: "https://corelabs.vercel.app",
+      link: "https://corelabs-iota.vercel.app",
       github: "https://github.com/NirmanPatel036/corelabs",
     },
     {
