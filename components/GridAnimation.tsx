@@ -211,7 +211,7 @@ export default function GridAnimation() {
       </div>
       
       {/* Typewriter text */}
-        <div className="mt-8 text-white text-xl font-mono">
+        <div className="mt-8 text-center text-white text-lg font-mono">
         {typewriterText}
         <span className="animate-pulse">_</span>
         {hasTyped && (
